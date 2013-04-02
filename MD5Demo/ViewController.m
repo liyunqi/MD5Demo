@@ -20,7 +20,10 @@
     [inputField  release];
     [super dealloc];
 }
-
+-(void)send
+{
+    
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
