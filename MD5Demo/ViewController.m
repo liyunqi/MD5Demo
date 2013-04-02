@@ -24,6 +24,10 @@
 {
     
 }
+-(void)cancle
+{
+    
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
